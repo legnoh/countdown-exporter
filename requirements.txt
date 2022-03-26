@@ -5,5 +5,5 @@
 #    pipenv lock --requirements
 #
 
--i https://pypi.org/simple
-prometheus-client==0.11.0
+-i https://pypi.org/simple/
+prometheus-client==0.13.1
