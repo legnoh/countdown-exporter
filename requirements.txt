@@ -6,4 +6,4 @@
 #
 
 -i https://pypi.org/simple/
-prometheus-client==0.16.0
+prometheus-client==0.17.0
